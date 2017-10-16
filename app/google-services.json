@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268133698969",
+    "firebase_url": "https://work-5fa64.firebaseio.com",
+    "project_id": "work-5fa64",
+    "storage_bucket": "work-5fa64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268133698969:android:0958941b2dfa4406",
+        "android_client_info": {
+          "package_name": "com.example.lthammad.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268133698969-d4e9ogpk6i7p630dpv5hk82nmdh0744m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lthammad.work",
+            "certificate_hash": "e54831e25949a0178595c7d13570d49c21cba854"
+          }
+        },
+        {
+          "client_id": "268133698969-5hta1p2f46rpdsq1par9gvqnfhhuev2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByh0TptRCpaKVwB5ozEx7uH6dZTCnAqQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268133698969-5hta1p2f46rpdsq1par9gvqnfhhuev2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
